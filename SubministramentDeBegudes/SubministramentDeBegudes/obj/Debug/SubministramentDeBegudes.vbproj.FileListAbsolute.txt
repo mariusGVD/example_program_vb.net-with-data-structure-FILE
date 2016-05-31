@@ -1,0 +1,11 @@
+C:\Users\GGevod\AppData\Local\Temporary Projects\SubministramentDeBegudes\bin\Debug\SubministramentDeBegudes.exe.config
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\bin\Debug\SubministramentDeBegudes.exe.config
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\bin\Debug\SubministramentDeBegudes.exe
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\bin\Debug\SubministramentDeBegudes.pdb
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\bin\Debug\SubministramentDeBegudes.xml
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\obj\Debug\SubministramentDeBegudes.Form1.resources
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\obj\Debug\SubministramentDeBegudes.Resources.resources
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\obj\Debug\SubministramentDeBegudes.vbproj.GenerateResource.Cache
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\obj\Debug\SubministramentDeBegudes.exe
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\obj\Debug\SubministramentDeBegudes.xml
+C:\Users\GGevod\Documents\Visual Studio 2012\Projects\SubministramentDeBegudes\SubministramentDeBegudes\obj\Debug\SubministramentDeBegudes.pdb

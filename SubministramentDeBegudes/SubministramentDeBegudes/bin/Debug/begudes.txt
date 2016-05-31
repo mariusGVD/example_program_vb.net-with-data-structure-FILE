@@ -1,0 +1,4 @@
+﻿Intel	X21312313	Barcelona	23/12/2016	
+Microsoft	M2412352	Lleida	25/09/2016
+BMW	h2173812318	Barcelona	22/08/2017
+Samsung	h827318731	Barcelona	10/08/2016
